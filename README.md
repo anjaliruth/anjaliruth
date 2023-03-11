@@ -5,6 +5,10 @@
 
 Here are some ideas to get you started:
 
+I am about to start with the School of Code bootcamp to become a FullStack Javascript web developer!
+
+I have learnt the basics of HTML and CSS!
+
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...

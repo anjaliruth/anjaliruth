@@ -7,6 +7,10 @@ I am a recent Chemical Engineering Graduate from University College London and a
 
 I transitioned into tech to merge my transferrable skills honed as an Engineer (teamwork, problem-solving, analyticak thinking and technical aptitude) with my love of continuous learning(having learned 15 skills since 2020). 
 
+🏗️ I am currently working on a full-stack Time Tracking web app project that displays the amount of productive hours a user has put in for the day with stretch goals of displaying Daily, Weeky and Monthly productivity data. 
+
+📚 I am currently learning about 
+
 
 <!--
 **anjaliruth/anjaliruth** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+
+## About me 
+
+I am a recent Chemical Engineering Graduate from University College London and am currently learning full-stack web development at [School of Code](https://www.schoolofcode.co.uk/)
+
+I transitioned into tech to merge my transferrable skills honed as an Engineer (teamwork, problem-solving, analyticak thinking and technical aptitude) with my love of continuous learning(having learned 15 skills since 2020). 
+
+
 <!--
 **anjaliruth/anjaliruth** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

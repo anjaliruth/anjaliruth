@@ -9,7 +9,7 @@ I transitioned into tech to merge my transferrable skills honed as an Engineer (
 
 🏗️ I am currently working on a full-stack Time Tracking web app project that displays the amount of productive hours a user has put in for the day with stretch goals of displaying Daily, Weeky and Monthly productivity data. 
 
-📚 I am currently learning about 
+📚 I am currently learning about Responsive Layouts with this course: [Conquering Responsive Layout](https://courses.kevinpowell.co/conquering-responsive-layouts) 
 
 
 <!--

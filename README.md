@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there, my name is Anjali 👋
 
 
 ## About me 
@@ -16,7 +16,7 @@ I transitioned into tech to merge my transferrable skills honed as an Engineer (
 
 
 
-# Getting in touch
+## Getting in touch
 
 If you'd like to discuss an opportunity with me, (or just wanted to chat!): 
 

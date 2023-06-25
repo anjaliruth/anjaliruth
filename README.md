@@ -18,7 +18,7 @@ I transitioned into tech to merge my transferrable skills honed as an Engineer (
 
 ## Getting in touch
 
-If you'd like to discuss an opportunity with me, (or just wanted to chat!): 
+If you would like to discuss an opportunity with me, (or just wanted to chat!): 
 
 📩 You can reach me at [ruthanjali0211@gmail.com](mailto:ruthanjali0211@gmail.com)
 <!--

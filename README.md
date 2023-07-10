@@ -14,6 +14,8 @@ I transitioned into tech to merge my transferrable skills honed as an Engineer (
 📚 I am currently learning about Responsive Layouts with this course: [Conquering Responsive Layout](https://courses.kevinpowell.co/conquering-responsive-layouts) 
 
 
+## Codewars
+![Codewars](https://github.r2v.ch/codewars?user=anjaliruth&stroke=blue)
 
 
 ## Getting in touch

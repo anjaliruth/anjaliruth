@@ -15,7 +15,7 @@ I transitioned into tech to merge my transferrable skills honed as an Engineer (
 
 
 ## Codewars
-![Codewars](https://github.r2v.ch/codewars?user=anjaliruth&stroke=%#43B6B6)
+![Codewars](https://github.r2v.ch/codewars?user=anjaliruth&stroke=%43B6B6)
 
 
 ## Getting in touch

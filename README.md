@@ -13,7 +13,7 @@ I transitioned into tech to merge my transferrable skills honed as an Engineer (
 
 📚 I am currently learning about Responsive Layouts with this course: [Conquering Responsive Layout](https://courses.kevinpowell.co/conquering-responsive-layouts) 
 
-[![LinkedIn](https://www.linkedin.com/img/webpromo/btn_viewmy_160x33.png)](https://www.linkedin.com/in/anjali-ruth-muthusamy)
+
 
 ## Codewars
 ![Codewars](https://github.r2v.ch/codewars?user=anjaliruth&stroke=%2343B6B6)

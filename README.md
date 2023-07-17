@@ -25,7 +25,6 @@ If you would like to discuss an opportunity with me, (or just wanted to chat!):
 
 📩 You can reach me at [ruthanjali0211@gmail.com](mailto:ruthanjali0211@gmail.com)
 
-<h3 align="center">A passionate frontend developer from India</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

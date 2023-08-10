@@ -14,10 +14,11 @@ I transitioned into tech to merge my transferrable skills honed as an Engineer (
 📚 I am currently learning about Responsive Layouts with this course: [Conquering Responsive Layout](https://courses.kevinpowell.co/conquering-responsive-layouts) 
 
 ## My Projects
-| Project | Demo | Description |
+| Project | Demo | Details |
 |---------|------|-------------|
 | [Trivia Game](https://github.com/anjaliruth/TRIVIA) | [TRIVIA](https://anjaliruth.github.io/TRIVIA/) | A vanilla JS app I created to solidify my understanding of using/making API calls and manipulating the DOM |
 | [Tip Calculator](https://github.com/anjaliruth/TipSplitter) | [TipSplitter](https://anjaliruth.github.io/TipSplitter/) | A React app I created as practice after learning the theory of React. This is also my first exercise in creating responsive apps. 
+| [Productivity Calculator](https://github.com/anjaliruth/BetterMakeItCount) | [Better Make it Count!](https://anjaliruth.github.io/BetterMakeItCount/) | A React app that calculates the amount of productive work done by the user in a day. This project was an exercise in handling the Datetime Object and how to handle time calculation in the right way. |
 
 
 ## Codewars

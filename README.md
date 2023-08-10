@@ -16,7 +16,7 @@ I transitioned into tech to merge my transferrable skills honed as an Engineer (
 ## My Projects
 | Project | Demo | Description |
 |---------|------|-------------|
-| Tip Calculator | [TipSplitter](https://anjaliruth.github.io/TipSplitter/) | Practiced my React Skills |
+| Tip Calculator | [TipSplitter](https://anjaliruth.github.io/TipSplitter/) | A React app I created as practice after learning the theory of React. This is also my first exercise in creating responsive apps. 
 
 ## Codewars
 ![Codewars](https://github.r2v.ch/codewars?user=anjaliruth&stroke=%2343B6B6)

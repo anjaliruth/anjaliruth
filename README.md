@@ -19,7 +19,9 @@ I transitioned into tech to merge my transferrable skills honed as an Engineer (
 | [Trivia Game](https://github.com/anjaliruth/TRIVIA) | [TRIVIA](https://anjaliruth.github.io/TRIVIA/) | A vanilla JS app I created to solidify my understanding of using/making API calls and manipulating the DOM |
 | [Tip Calculator](https://github.com/anjaliruth/TipSplitter) | [TipSplitter](https://anjaliruth.github.io/TipSplitter/) | A React app I created as practice after learning the theory of React. This is also my first exercise in creating responsive apps. 
 | [Better Make it Count](https://github.com/anjaliruth/BetterMakeItCount) | [Productivity Calculator](https://anjaliruth.github.io/BetterMakeItCount/) | A React app that calculates the amount of productive work done by the user in a day. This project was an exercise in handling the Datetime Object and how to handle time calculation in the right way. |
-| [Paws For Affection](https://pawsforaffection.netlify.app/) | [Paws For Affection](https://github.com/anjaliruth/TheHackitectsFinalProjects/blob/main/README.md) | A Full-Stack matketplace app connecting overwhelmed dog shelters with potential dog adopters. This project was created by 6 developers for the School of Code final project. 
+| [Paws For Affection](https://pawsforaffection.netlify.app/) | [Paws For Affection](https://github.com/anjaliruth/TheHackitectsFinalProjects/blob/main/README.md) | A full stack marketplace app connecting overwhelmed dog shelters with potential dog adopters. This project was created by 6 developers for the School of Code final project. |
+| [Inventory App](keeptabs.netlify.app) | [KeepTabs](keeptabs.netlify.app) |  A full-stack app that helps me keep track of the location of my personal belongings. |
+
 
 
 ## Codewars

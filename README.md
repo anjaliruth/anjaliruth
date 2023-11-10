@@ -4,6 +4,7 @@
 ## About me 
 
 💻 I am a Developer at Iceland Foods
+</br>
 📍 I am based in London
 📚 I graduated as a Chemical Engineer from University College London(UCL) before pivoting into tech with a 16-week full-stack bootcamp!
 

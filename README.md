@@ -5,7 +5,7 @@
 
 I am a recent Chemical Engineering Graduate from University College London and am currently learning full-stack web development at [School of Code](https://www.schoolofcode.co.uk/). I am actively seeking employment as a Front-End/Back-End/Full-Stack Developer after completing the bootcamp on 30th June.
 
-I transitioned into tech to merge my transferrable skills honed as an Engineer (teamwork, problem-solving, analyticak thinking and technical aptitude) with my love of continuous learning(having learned 15 skills since 2020). 
+I transitioned into tech to merge my transferrable skills honed as an Engineer (teamwork, problem-solving, analytical thinking and technical aptitude) with my love of continuous learning(having learned 15 skills since 2020). 
 
 👥 Currently engaged in a collaborative 5-week full-stack project at [School of Code](https://www.schoolofcode.co.uk/) with a team of 6.
 
